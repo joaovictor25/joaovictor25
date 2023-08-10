@@ -3,20 +3,12 @@
 - 💻 Mergulho de cabeça e desafios
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+<a href="https://github.com/joaovictor25">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=joaovictor25&show_icons=true&theme=dark" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+<a href="https://github.com/joaovictor25">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaovictor25&layout=compact&langs_count=8&card_width=320&theme=dark" />
 </a>
-
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaovictor25&show_icons=true&theme=dark&card_width=200" />
-
-  <img height="180em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaovictor25&layout=compact&langs_count=8&card_width=200&show_icons=true&theme=dark" />
-</div>
-
-
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Joao-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">

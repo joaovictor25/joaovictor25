@@ -1,4 +1,6 @@
 ### Olá! Eu sou João Victor 👋
+- ❤️ Sou apaixonado por programar
+- 💻 Mergulho de cabeça e desafios
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=joaovictor25&show_icons=true&theme=dark" />

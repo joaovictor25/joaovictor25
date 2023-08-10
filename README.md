@@ -22,7 +22,7 @@
   <a href="https://www.linkedin.com/in/jo%C3%A3o-v-395645214/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-![Snake animation](https://github.com/joaovictor25)
+![Snake animation](https://github.com/joaovictor25/joaovictor25/blob/main/github-contribution-grid-snake.svg)
 <!--
 **joaovictor25/joaovictor25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

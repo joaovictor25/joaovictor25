@@ -3,9 +3,9 @@
 - 💻 Mergulho de cabeça e desafios
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaovictor25&show_icons=true&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaovictor25&show_icons=true&theme=dark&card_width=200" />
 
-  <img height="180em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaovictor25&layout=compact&langs_count=8&card_width=280&show_icons=true&theme=dark" />
+  <img height="180em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaovictor25&layout=compact&langs_count=8&card_width=200&show_icons=true&theme=dark" />
 </div>
 
 

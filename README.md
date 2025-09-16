@@ -87,5 +87,3 @@ Possuo experiência em WordPress, JavaScript e React, com sólida atuação na c
 <a href="https://github.com/joaovictor25">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaovictor25&layout=compact&langs_count=8&card_width=320&theme=dark" />
 </a>
-- ⚡ Fun fact: ...
--->

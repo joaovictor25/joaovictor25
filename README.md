@@ -1,6 +1,6 @@
 ### Olá! Eu sou João Victor 👋
 - ❤️ Sou apaixonado por programar
-- 💻 Mergulho de cabeça e desafios
+- 💻 Mergulho de cabeça em desafios
 
 
 <a href="https://github.com/joaovictor25">

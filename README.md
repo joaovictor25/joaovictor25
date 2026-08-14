@@ -157,11 +157,13 @@ Ao longo da minha trajetória, também adquiri sólida experiência com WordPres
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
 />
+
+
 ---
 
 ### 📫 Contato
 * **LinkedIn:** [linkedin.com/in/joaovictor](https://www.linkedin.com/in/joaovictorbc/)
-* **Portfólio:** [joaovictor.dev](https://joaovictor.online/)
+* **Portfólio:** [joaovictor.online](https://joaovictor.online/)
 
 <br/>
 <br/>

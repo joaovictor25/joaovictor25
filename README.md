@@ -1,21 +1,17 @@
 # 👩🏻‍💻 João Victor
 
 
-Me chamo João Victor e moro em Teresópolis, RJ. Atualmente, curso Ciência da Computação na UNIFESO. Tenho mais de 8 anos de experiência em desenvolvimento de sites.
-Possuo experiência em WordPress, JavaScript e React, com sólida atuação na construção de sites utilizando o CMS WordPress. Além disso, trabalho com facilidade com a ferramenta Figma. No backend, tenho conhecimento em Java, PHP, SQL e MySQL.
+Sou desenvolvedor de software, com mais de 8 anos de experiência em desenvolvimento web, atuando na construção e manutenção de soluções digitais para diferentes necessidades e projetos.
+
+Atualmente, meu foco está no desenvolvimento de aplicações utilizando Java e Spring Boot, com criação de APIs REST, integração com bancos de dados SQL e utilização de Docker para padronização e execução de ambientes. Também trabalho com React no desenvolvimento de interfaces e aplicações web.
+
+Tenho experiência com desenvolvimento de sistemas, integração entre frontend e backend, modelagem e manipulação de dados e organização de aplicações seguindo boas práticas de desenvolvimento.
+
+Ao longo da minha trajetória, também adquiri sólida experiência com WordPress, além de conhecimentos em JavaScript, PHP, MySQL e Figma, tecnologias que complementam minha atuação e experiência no desenvolvimento web.
 
 ---
 
 ### 🤖 Linguagens e Tecnologias
-
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/1200px-WordPress_blue_logo.svg.png" 
-/>
 
 <img 
     align="left" 
@@ -24,7 +20,16 @@ Possuo experiência em WordPress, JavaScript e React, com sólida atuação na c
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>   
+/>  
+
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/spring/spring-original.svg" 
+/> 
      
 <img 
     align="left" 

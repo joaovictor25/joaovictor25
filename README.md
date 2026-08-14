@@ -159,19 +159,7 @@ Ao longo da minha trajetória, também adquiri sólida experiência com WordPres
 />
 
 <br/>
----
 
 ### 📫 Contato
 * **LinkedIn:** [linkedin.com/in/joaovictor](https://www.linkedin.com/in/joaovictorbc/)
 * **Portfólio:** [joaovictor.online](https://joaovictor.online/)
-
-<br/>
-<br/>
-
-### 📊 Estatísticas
-<a href="https://github.com/joaovictor25">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=joaovictor25&show_icons=true&theme=dark" />
-</a>
-<a href="https://github.com/joaovictor25">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaovictor25&layout=compact&langs_count=8&card_width=320&theme=dark" />
-</a>

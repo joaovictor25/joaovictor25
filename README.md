@@ -158,7 +158,7 @@ Ao longo da minha trajetória, também adquiri sólida experiência com WordPres
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
 />
 
-
+<br/>
 ---
 
 ### 📫 Contato

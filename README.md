@@ -1,7 +1,7 @@
 # 👩🏻‍💻 João Victor
 
 Software Engineer | Java | Spring Boot | REST APIs | SQL | Docker
-<br/>
+<br/><br/>
 Sou desenvolvedor de software, com mais de 8 anos de experiência em desenvolvimento web, atuando na construção e manutenção de soluções digitais para diferentes necessidades e projetos.
 
 Atualmente, meu foco está no desenvolvimento de aplicações utilizando Java e Spring Boot, com criação de APIs REST, integração com bancos de dados SQL e utilização de Docker para padronização e execução de ambientes. Também trabalho com React no desenvolvimento de interfaces e aplicações web.

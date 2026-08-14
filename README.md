@@ -69,11 +69,29 @@ Ao longo da minha trajetória, também adquiri sólida experiência com WordPres
 
 <img 
     align="left" 
-    alt="Postman" 
-    title="Postman"
+    alt="Linux" 
+    title="Linux"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/linux/linux-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="IntelliJ" 
+    title="IntelliJ"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/intellij/intellij-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Visual Studio Code" 
+    title="Visual Studio Code"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/vscode/vscode-original.svg" 
 />
 
 <img 
@@ -93,6 +111,7 @@ Ao longo da minha trajetória, também adquiri sólida experiência com WordPres
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
+
 <img 
     align="left" 
     alt="CSS" 
@@ -101,6 +120,16 @@ Ao longo da minha trajetória, também adquiri sólida experiência com WordPres
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
+
+<img 
+    align="left" 
+    alt="Tailwind css" 
+    title="Tailwind css"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/tailwindcss/tailwindcss-original.svg" 
+/>
+
 <img 
     align="left" 
     alt="JavaScript" 
@@ -118,6 +147,7 @@ Ao longo da minha trajetória, também adquiri sólida experiência com WordPres
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
+
 <img 
     align="left" 
     alt="Next.js" 
@@ -126,18 +156,6 @@ Ao longo da minha trajetória, também adquiri sólida experiência com WordPres
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
 />
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-
-
-
-
 
 <br/>
 <br/>

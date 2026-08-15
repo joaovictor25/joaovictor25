@@ -1,165 +1,94 @@
-# 👩🏻‍💻 João Victor
+# 👨‍💻 João Victor
 
-Software Engineer | Java | Spring Boot | REST APIs | SQL | Docker
-<br/><br/>
-Sou desenvolvedor de software, com mais de 8 anos de experiência em desenvolvimento web, atuando na construção e manutenção de soluções digitais para diferentes necessidades e projetos.
+### Software Engineer
 
-Atualmente, meu foco está no desenvolvimento de aplicações utilizando Java e Spring Boot, com criação de APIs REST, integração com bancos de dados SQL e utilização de Docker para padronização e execução de ambientes. Também trabalho com React no desenvolvimento de interfaces e aplicações web.
+**Java | Spring Boot | REST APIs | SQL | Docker**
 
-Tenho experiência com desenvolvimento de sistemas, integração entre frontend e backend, modelagem e manipulação de dados e organização de aplicações seguindo boas práticas de desenvolvimento.
+Desenvolvedor de software com mais de **8 anos de experiência em desenvolvimento web**, atuando na criação, manutenção e evolução de soluções digitais.
 
-Ao longo da minha trajetória, também adquiri sólida experiência com WordPress, além de conhecimentos em JavaScript, PHP, MySQL e Figma, tecnologias que complementam minha atuação e experiência no desenvolvimento web.
+Atualmente, meu foco está no desenvolvimento **backend com Java e Spring Boot**, construindo APIs REST, integrando bancos de dados SQL e utilizando Docker para padronização de ambientes.
+
+Também trabalho com **React** no desenvolvimento de interfaces web e possuo experiência com integração entre frontend e backend, modelagem de dados e organização de aplicações seguindo boas práticas de desenvolvimento.
+
+Minha trajetória também inclui sólida experiência com **WordPress, JavaScript, PHP e MySQL**, além de conhecimentos em ferramentas e tecnologias que complementam o desenvolvimento de aplicações web.
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## 📊 Informações Gerais
 
-<img 
-    align="left" 
-    alt="Java" 
-    title="Java"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>  
+| | |
+|---|---|
+| 💻 **Área principal** | Desenvolvimento de Software |
+| ☕ **Backend** | Java • Spring Boot • REST APIs |
+| 🗄️ **Banco de dados** | SQL • MySQL |
+| 🐳 **DevOps** | Docker • Git • Linux |
+| ⚛️ **Frontend** | React • JavaScript • HTML • CSS |
+| 🌐 **Experiência Web** | +8 anos |
+| 🎯 **Foco atual** | Backend e desenvolvimento de APIs |
 
-<img 
-    align="left" 
-    alt="Spring" 
-    title="Spring"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/spring/spring-original.svg" 
-/> 
+---
 
-<img 
-    align="left" 
-    alt="MySql" 
-    title="MySql"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/mysql/mysql-original.svg" 
-/> 
+## 🚀 Stack Principal
 
-<img 
-    align="left" 
-    alt="Docker" 
-    title="Docker"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/docker/docker-plain-wordmark.svg" 
-/> 
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" title="Java"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="40" title="Spring Boot"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" title="MySQL"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" title="Docker"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" title="Git"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" title="Linux"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="40" title="Postman"/>
+</p>
 
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+### Backend
 
-<img 
-    align="left" 
-    alt="Postman" 
-    title="Postman"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" 
-/>
+`Java` `Spring Boot` `REST APIs` `SQL` `MySQL`
 
-<img 
-    align="left" 
-    alt="Linux" 
-    title="Linux"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/linux/linux-original.svg" 
-/>
+### Frontend
 
-<img 
-    align="left" 
-    alt="IntelliJ" 
-    title="IntelliJ"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/intellij/intellij-original.svg" 
-/>
+`React` `JavaScript` `HTML5` `CSS3` `Tailwind CSS`
 
-<img 
-    align="left" 
-    alt="Visual Studio Code" 
-    title="Visual Studio Code"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/vscode/vscode-original.svg" 
-/>
+### DevOps e Ferramentas
 
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
+`Docker` `Git` `Linux` `Postman` `IntelliJ IDEA` `Visual Studio Code`
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
+### Outras tecnologias
 
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
+`PHP` `WordPress` `Next.js`
 
-<img 
-    align="left" 
-    alt="Tailwind css" 
-    title="Tailwind css"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/tailwindcss/tailwindcss-original.svg" 
-/>
+---
 
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
+## 🛠️ Tecnologias
 
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="35" title="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="35" title="Spring Boot"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="35" title="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="35" title="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="35" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="35" title="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="35" title="Postman"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="35" title="IntelliJ IDEA"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="35" title="Visual Studio Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="35" title="PHP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="35" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="35" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="35" title="Tailwind CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="35" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="35" title="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="35" title="Next.js"/>
+</p>
 
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
+---
 
-<br/>
+## 📫 Contato
 
-### 📫 Contato
-* **LinkedIn:** [linkedin.com/in/joaovictor](https://www.linkedin.com/in/joaovictorbc/)
-* **Portfólio:** [joaovictor.online](https://joaovictor.online/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-João_Victor-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaovictorbc/)
+
+[![Portfólio](https://img.shields.io/badge/Portfólio-joaovictor.online-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://joaovictor.online/)
